@@ -1,0 +1,62 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.landing{
+    background-image: url(../images/h_img.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-align: center;
+    padding-top:16%; 
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.about{
+    text-align: center;
+}
+
+.services {
+    background-image: url(../images/s_image.jpg);
+    box-sizing: border-box;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: white;
+    font-size: 15px;
+}
+
+#what-we-do{
+    text-align: center;
+}
+
+#portfolio-items{
+    justify-content: space-between;
+}
+
+.form-group h2{
+    text-align: center;
+}
+
+.row .column{
+    justify-content: space-between;
+}
+
+.form-group{
+    background-image: url(../images/c_image.jpg);
+    opacity: 0.8;
+}
+
+footer .card-footer{
+    text-align: center;
+    margin-left: 40px;
+}
+
+footer .footer-info{
+    text-align: center;
+    font-size: 15px;
+    font-weight: 900;
+}
