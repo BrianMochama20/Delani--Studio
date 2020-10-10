@@ -2,17 +2,7 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 
-.landing{
-    background-image: url()
-    background-position: center center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    color: white;
-    text-align: center;
-    padding-top:16%; 
-    font-family: 'Roboto', sans-serif;
 
-}
 
 .about{
     text-align: center;
