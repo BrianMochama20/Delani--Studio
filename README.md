@@ -1,3 +1,5 @@
 ## Delani-Studio
+
 ### Author 
-Brian Obiri
+
+*Brian Obiri
